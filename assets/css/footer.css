@@ -1,0 +1,33 @@
+footer {
+  background: #f9f9f9;
+  border-top: 1px solid #ddd;
+  color: #666;
+  font-size: 12px;
+  line-height: 2.2em;
+  padding: 2.2em 0.5em;
+  text-align: center;
+}
+
+footer .infos-contact{
+  /* padding: 1.625em 7.6%; */
+  /* border-top: 1px solid #ddd; */
+  overflow: hidden;
+}
+
+footer .mentions-legales{
+  /* padding: 1.625em 7.6%; */
+  /* border-top: 1px solid #ddd; */
+  /* overflow: hidden; */
+}
+
+footer .infos-contact img.emoji{
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1.1em !important;
+  width: 1.1em !important;
+  margin: 0 .07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+}

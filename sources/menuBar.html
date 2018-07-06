@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+    <title>MenuBar</title>
+    <!-- Bootstrap Core CSS -->
+    <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand" href="index.html">
+        <img  src="assets/img/Elise_Fruchart_brand.jpg" style="width: 120px; border-radius:50%;" alt="Elise Fruchart Psychologie"/>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <!--
+          Liste d'attributs possibles des nav-item:
+          -> active, disabled
+        -->
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Accueil <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdownQuiSuisJe" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Qui suis-je</a>
+            <div class="dropdown-menu" aria-labelledby="dropdownQuiSuisJe">
+              <a class="dropdown-item" href="Ma-formation.html">Ma formation</a>
+              <a class="dropdown-item" href="Mon-approche.html">Mon approche</a>
+              <a class="dropdown-item" href="Deontologie.html">Déontologie</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdownConsultations" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Consultations & Tarifs</a>
+            <ul class="dropdown-menu" aria-labelledby="dropdownConsultations">
+              <li class="dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="#">Psychologie clinique</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Enfant</a></li>
+                  <li><a class="dropdown-item" href="#">Adolescent</a></li>
+                  <li><a class="dropdown-item" href="#">Adulte</a></li>
+                  <li><a class="dropdown-item" href="#">Groupe</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="#">Naturopathie</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="Consultation.html">Consultation</a></li>
+                  <li><a class="dropdown-item" href="Bilan-Naturopathique.html">Bilan Naturopathique</a></li>
+                </ul>
+              </li>
+              <a class="dropdown-item" href="Tarifs.html">Tarifs</a>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Prendre-rendez-vous.html">Prendre Rendez-vous</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Articles</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- JavaScript is required for the dropdown menu -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- <script src="../assets/js/NavBar.js"></script> -->
+</body>
+</html>
