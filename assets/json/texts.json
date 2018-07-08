@@ -1,0 +1,30 @@
+{
+  "ma-formation":{
+    "title" : "C'est ma formation",
+    "text": [
+      "Je suis diplômée du master en psychologie clinique psychopathologique et en phénoménologie des problématiques corporelles, de l'université Montpellier 3. Ce diplôme forme des psychologues cliniciens psychopathologues spécialisés dans la prise en charge des problématiques individuelles, d’équipes et institutionnelles.",
+      "D'un point de vue théorique l'approche est à la fois intégrative, psycho dynamique, phénoménologique et cognitive permettant ainsi de cibler les aspects les plus impliqués de votre problématique pour travailler ensemble de la manière la plus adéquate.",
+      "En outre, la spécialisation concernant une double approche du corps représenté et du corps en mouvement ouvre mon champ d'action à des problématiques de rapport au corps, dans ses manifestations normales (adolescence, vieillissement), conflictuelles (anorexie, auto mutilation), pathologique (maladie) blessure ou autres traumatismes physiques ou psychiques graves  (psycho-traumatisme) et également dans les problématiques purement sportives (blessure, rééducation, arrêt)"
+    ]
+  },
+  "mon-approche":{
+    "title": "C'est mon approche",
+    "text":[
+      "Loin de réduire votre problématique à l'unique point de vue d'une spécialité (en fonction de vos symptômes ou de votre âge), mon but est de vous aider vous réapproprier votre histoire, de votre corps de votre environnement et de votre parole.",
+      "Mon approche consiste à  travailler sur une unification de  vos différents niveaux de fonctionnement affectif, comportemental, cognitif ou physiologique dans un esprit de cohésion . Nous essaierons de donner ensemble un sens à autour des événements de votre vie et à vos relations afin que vous puissiez développer une meilleure compréhension de vous même et des autres, pour un fonctionnement plus serein.",
+      "Au sein de la relation avec une thérapeute se joue et se rejoue de nombreuses choses, et à travers cette aventure humaine s'ouvre un champ des possibles exploitables pour opérer des changements positifs dans sa vie et s'offrir l'occasion de porter un regard nouveau sur soi même.",
+      "L'accompagnement proposé est profondément humaniste, dans un cadre authentique, empathique, sécurisant, sans jugement basé sur une confiance inconditionnelle dans le processus de thérapie."
+    ]
+  },
+  "deontologie":{
+    "title": "C'est ma déontologie",
+    "text":[
+      "Le terme déontologie professionnelle fait référence à l’ensemble de principes et règles éthiques  qui gèrent et guident une activité professionnelle.",
+      "Le code de déontologie des psychologues définit des normes qui constituent les devoirs exigibles  de la profession.",
+      "Parmi les principales : Secret professionnel, Rigueur, Respect du consentement libre et éclairé, Réorientation si dépassement des compétences, non exploitation de la relation professionnelles à des fins personnelles….",
+      "",
+      "Le code de déontologie des psychologues est consultable ici : http://www.codededeontologiedespsychologues.fr/LE-CODE.html"
+    ]
+  }
+
+}
