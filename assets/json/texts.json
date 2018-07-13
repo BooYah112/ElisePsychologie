@@ -25,6 +25,38 @@
       "",
       "Le code de déontologie des psychologues est consultable ici : http://www.codededeontologiedespsychologues.fr/LE-CODE.html"
     ]
+  },
+  "naturopathie-consultation":{
+    "title": "C'est ma naturopathie, section Consultation",
+    "text":[
+      "Les objectifs des consultations peuvent être multiples. Votre souhait de rencontre peut résulter d'une difficulté passagère, dont une rencontre ou deux vous permettront de mettre en lumière les situations et de reprendre confiance afin de continuer à vous réaliser.",
+      "Que vous soyez en proie à des doutes sur vos actions, vos pensées, que vous ayez besoin de faire un bilan, d'évaluer une situation, l'écoute et le conseil d'un professionnel en sciences humaines vous accompagne dans la  démarche de porter un regard nouveau sur ce que vous vivez.",
+      "L'échange avec un psychologue est la possibilité d'une rencontre avec une personne ressource pour un soutien en cas de circonstances difficiles (décès, traumatisme (agression), problème de santé, perte d'emploi, séparation, examen, ou tout changement brusque dans votre vie auquel vous n'étiez pas préparé ou auquel vous n'arrivez pas ou plus à faire face).",
+      "Ces entretiens pourront également déboucher sur un suivi thérapeutique car vous désirerez approfondir certaines choses.",
+      "",
+      "Dans tous les cas, la volonté de rencontrer un psychologue est une démarche qui se doit d'être reconnue, comme un premier pas important démontrant votre capacité naturelle à vous poser des questions sur vous même et à vous écouter. C'est ainsi qu'en tant que professionnelle, je vous encourage à me contacter si vous avez la moindre interrogation concernant le déroulement des séances, mon but aidant de vous proposer un espace d'écoute pour vos difficultés et vos attentes et un espace de travail pour retrouver un bien être et atteindre vos objectifs."
+    ]
+  },
+  "naturopathie-bilan-naturopathique":{
+    "title": "C'est mon bilan naturopathique",
+    "text": [
+      "La naturopathie est définie par l'OMS comme « un ensemble de méthodes de soins visant à renforcer les défenses de l'organisme par des moyens considérés comme naturels et biologiques » et la classe comme 3ème médecine traditionnelle mondiale.",
+      "Elle ne consiste pas à faire disparaître les symptômes d'une maladie, mais plus à traiter les causes de celle ci, à offrir au corps un terrain propre à l'autoguérison. Il s'agit de donner les clés et d'indiquer la direction à suivre pour la personne en fonction de sa vitalité, son tempérament, son état physique, physiologique, et se son environnement.",
+      "",
+      "Afin de pouvoir répondre au mieux à votre demande, il s'agira de dresser ensemble votre profil, en apprenant à connaître votre mode de vie, vos habitudes (alimentaires, d'hygiène de vie, sociale),  et vos antécédents. Nous cernerons la nature des problèmes à traiter et je vous proposerai des solutions naturelles pour y remédier . Cela passe par la construction d'une programme personnalisé adapté à votre mode de fonctionnement pouvant toucher à plusieurs registres comme l'alimentation, l'écoute et la reconnaissance de vos symptômes,  la gestion de votre stress, des conseils en phytothérapie.",
+      "L'approche est ici non jugeante et le but est une transmission de connaissance afin que vous puissiez à terme retrouver un mieux être et une hygiène de vie saine se rapprochant le plus possible du naturel que vous soyez capable d'atteindre. Car la santé n'est pas uniquement une absence de maladie mais un état complet de bien-être physique mental et social ."
+    ]
+  },
+  "tarifs":{
+    "title": "Ce sont mes tarifs",
+    "text":[
+      "Les consultations psychologiques ne sont pas remboursées par la Sécurité Sociale pour l'instant mais certains mutuelles peuvent les prendre en charge. Selon vos besoins et vos moyens, je considère qu'il est possible d'adapter le tarif des séances afin que la dépense occasionnée ne vienne pas nuire à la démarche et à la réflexion engagée.",
+      "Il est toujours difficile de réaliser au vu des frais engagés dans l'instant les effets bénéfiques à long terme qu'aura un suivi thérapeutique. Pensez que si l'avancement sur votre chemin de vie vous paraît parfois difficile ou inexistant, c'est que vous êtes potentiellement ralenti-e par un poids, et c'est sur le fait d'alléger celui-ci que nous allons travailler afin que vous puissiez reprendre votre route dans la direction qu'il vous sierra le mieux en laissant de coté les béquilles et autres soutiens qui à terme coûtent cher autant émotionnellement que financièrement.",
+      "",
+      "",
+      "psy 45 min",
+      "Consultation naturopathique 50 min"
+    ]
   }
 
 }
